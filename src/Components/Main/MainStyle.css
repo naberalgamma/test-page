@@ -1,0 +1,77 @@
+.main-container {
+  max-width: 920px;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0 auto;
+}
+.name-photo {
+  display: flex;
+}
+.photo {
+  margin-top: 55px;
+  width: 90px;
+  height: 90px;
+}
+.name {
+  margin: 74px 0 0 30px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: rgba(0, 0, 0, 0.8);
+}
+.short-name {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+}
+.phone {
+  text-decoration: none;
+  margin: 8px 0 0 30px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: rgba(0, 0, 0, 0.8);
+}
+.email {
+  text-decoration: none;
+}
+.container-info {
+  display: flex;
+  margin-top: 48px;
+}
+.title {
+  color: rgba(131, 131, 131, 0.8);
+}
+.title-left {
+  width: 350px;
+}
+.title-right {
+  width: 350px;
+  margin-left: 28px;
+}
+.title-info {
+  color: rgba(0, 0, 0, 0.8);
+  margin: 28px 0 0 14px;
+}
+.work {
+  margin: 0;
+}
+.person-category-text {
+  width: 730px;
+  height: 247px;
+  font-size: 16px;
+  line-height: 19px;
+  margin: 0;
+}
+.info-last {
+  margin-bottom: 66px;
+}
+.title-relative {
+  margin-bottom: 32px;
+}
+.parents {
+  margin-bottom: 40px;
+}
